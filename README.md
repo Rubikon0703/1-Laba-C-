@@ -77,7 +77,7 @@ ToString()
 
 
 ### Тестирование
-
+![pasted image 2.png](https://github.com/Rubikon0703/1-Laba-C-/blob/main/скрины/2.png)
 
 
 # Задание 3
@@ -111,6 +111,6 @@ bool (неявная) – результатом является true, если
 Оператор Time - uint и uint - Time – вычитает заданное количество минут.
 
 ### Тестирование
-
+![pasted image 2.png](https://github.com/Rubikon0703/1-Laba-C-/blob/main/скрины/2.png)
 
 
