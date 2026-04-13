@@ -54,7 +54,7 @@ ToString()
 
 ToString()
 ### Тестирование
-
+![pasted image 1.png](https://github.com/Rubikon0703/1-Laba-C-/blob/main/скрины/1.png)
 
 
 # Задание 2
