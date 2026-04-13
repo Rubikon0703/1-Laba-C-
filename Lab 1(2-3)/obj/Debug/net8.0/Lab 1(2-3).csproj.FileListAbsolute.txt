@@ -1,0 +1,14 @@
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).AssemblyInfoInputs.cache
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).AssemblyInfo.cs
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).csproj.CoreCompileInputs.cache
+C:\Users\sterh\source\repos\Lab 1(2-3)\bin\Debug\net8.0\Lab 1(2-3).exe
+C:\Users\sterh\source\repos\Lab 1(2-3)\bin\Debug\net8.0\Lab 1(2-3).deps.json
+C:\Users\sterh\source\repos\Lab 1(2-3)\bin\Debug\net8.0\Lab 1(2-3).runtimeconfig.json
+C:\Users\sterh\source\repos\Lab 1(2-3)\bin\Debug\net8.0\Lab 1(2-3).dll
+C:\Users\sterh\source\repos\Lab 1(2-3)\bin\Debug\net8.0\Lab 1(2-3).pdb
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).dll
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\refint\Lab 1(2-3).dll
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).pdb
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\Lab 1(2-3).genruntimeconfig.cache
+C:\Users\sterh\source\repos\Lab 1(2-3)\obj\Debug\net8.0\ref\Lab 1(2-3).dll

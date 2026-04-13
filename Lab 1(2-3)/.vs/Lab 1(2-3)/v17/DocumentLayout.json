@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DB0F02-0D0F-4F87-9795-58FA35BB63ED}|Lab 1(2-3).csproj|c:\\users\\sterh\\source\\repos\\lab 1(2-3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DB0F02-0D0F-4F87-9795-58FA35BB63ED}|Lab 1(2-3).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DB0F02-0D0F-4F87-9795-58FA35BB63ED}|Lab 1(2-3).csproj|c:\\users\\sterh\\source\\repos\\lab 1(2-3)\\timevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DB0F02-0D0F-4F87-9795-58FA35BB63ED}|Lab 1(2-3).csproj|solutionrelative:timevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DB0F02-0D0F-4F87-9795-58FA35BB63ED}|Lab 1(2-3).csproj|c:\\users\\sterh\\source\\repos\\lab 1(2-3)\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DB0F02-0D0F-4F87-9795-58FA35BB63ED}|Lab 1(2-3).csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\TimeValidator.cs",
+              "RelativeDocumentMoniker": "TimeValidator.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\TimeValidator.cs",
+              "RelativeToolTip": "TimeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:40:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\Time.cs",
+              "RelativeDocumentMoniker": "Time.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\Time.cs",
+              "RelativeToolTip": "Time.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:39:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Lab 1(2-3)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:26:40.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
